@@ -82,3 +82,13 @@
 // const salary=prompt("Soatiga qancha haq olasiz?")
 // alert("Natija: "+(time*salary)+" so'm")
 
+// 14-vazifa
+// const x=parseInt(prompt("Birinchi soni kiriting: "))
+// const y=parseInt(prompt("Ikkinchi soni kiriting: "))
+// if (x>y){
+//     alert(x +" katta "+y+" dan")
+// }else if (y>x){
+//     alert(y +" katta "+x+" dan")
+// }else if (x==y){
+//     alert("Ikkala son teng.")
+// }else alert("Xato so'rov")
