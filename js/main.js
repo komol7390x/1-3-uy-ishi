@@ -92,3 +92,26 @@
 // }else if (x==y){
 //     alert("Ikkala son teng.")
 // }else alert("Xato so'rov")
+
+// 15-vazifa
+// const len1=prompt("So'z kiriting?")
+// alert(len1+" sozini uzunligi: "+(len1.length))
+
+// 16-vazifa
+// const diskont=parseInt(prompt("Xarid sumasini kiriting:"))
+// if (diskont>=500_000){
+//     alert("Chegirma: "+(diskont*0.1)+" To'lov: "+(diskont*0.9))
+// }else alert("Chegirma: Yo'q,"+" To'lov: "+diskont)
+
+// 17-vazifa
+// const x=parseInt(prompt("Birinchi soni kiriting: "))
+// const y=parseInt(prompt("Ikkinchi soni kiriting: "))
+// const z=parseInt(prompt("Uchinchi soni kiriting: "))
+
+// alert("Natija: "+((x+y+z)/3))
+
+// 18-vazifa
+// const sum=parseInt(prompt("Asosiy summani kiriting: "))
+// const prosent=parseInt(prompt("Foiz stavkasini kiriting: "))
+// const year=parseInt(prompt("Yilni kiriting: "))
+// alert("Natija: "+(sum*prosent*year))
