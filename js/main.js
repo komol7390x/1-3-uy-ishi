@@ -33,4 +33,16 @@
 // }else alert("F")
 
 // 6-vazifa
+// const height=parseInt(prompt("Baldligini kiriting:"))
+// const weight=parseInt(prompt("Uzunligini kiriting:"))
+// alert("Yuzi: "+height*weight)
 
+// 7-vazifa
+// const number=parseInt(prompt("Kubi tomonini kiriting:"))
+// alert("Kubni hajmi: "+(number**3)+"  sm³")
+
+// 8-vazifa
+// const Celsius=parseInt(prompt("Celsius kiriting:"))
+// alert("Fahrenheit: "+((Celsius*9/5)+32)+" °F")
+
+// 8-vazifa
