@@ -45,4 +45,40 @@
 // const Celsius=parseInt(prompt("Celsius kiriting:"))
 // alert("Fahrenheit: "+((Celsius*9/5)+32)+" °F")
 
-// 8-vazifa
+// 9-vazifa
+// const wet=parseInt(prompt("Namlikni kiriting:"))
+// if (wet<30){
+//     alert("Havo juda quruq.")
+// }else if (30<=wet<=60){
+//     alert("Havo qulay.")
+// }else alert("Havo nam.")
+
+// 10-vazifa
+// const speed=parseInt(prompt("Internet tezligini  kiriting:"))
+// if (speed<50){
+//     alert("Internet sekin.")
+// }else if(50<=speed<=100){
+//     alert("Internet o'rtacha.")
+// }else alert("Internet juda tez.")
+
+// 11-vazifa
+// const dollar=parseInt(prompt("Dollarni tezligini  kiriting:"))
+// alert("Kutilgan natija: "+(dollar*13000))
+
+// 12-vazifa
+// const age=parseInt(prompt("Yoshingizni kiriting?"))
+// const car=prompt("Avtomobil turini kiriting(yengil/yuk): ")
+
+// if (age>=18 && car=="yengil"){
+//     alert("Siz yengil avtomobil boshqarishingiz mumkin.")
+// }else if(age>=18 && car=="yuk"){
+//     alert("Siz yuk avtomobil boshqarishingiz mumkin.")
+// }else if(age<18){
+//     alert("Siz avtomobil boshqara olmaysiz.")
+// }else alert("Xato so'rov")
+
+// 13-vazifa
+// const time=parseInt(prompt("Qancha soat ishladiz?"))
+// const salary=prompt("Soatiga qancha haq olasiz?")
+// alert("Natija: "+(time*salary)+" so'm")
+
