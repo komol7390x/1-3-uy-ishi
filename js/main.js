@@ -72,7 +72,7 @@
 // if (age>=18 && car=="yengil"){
 //     alert("Siz yengil avtomobil boshqarishingiz mumkin.")
 // }else if(age>=18 && car=="yuk"){
-//     alert("Siz yuk avtomobil boshqarishingiz mumkin.")
+//     alert("Siz yuk avtomobil boshqarishingiz mumkin")
 // }else if(age<18){
 //     alert("Siz avtomobil boshqara olmaysiz.")
 // }else alert("Xato so'rov")
